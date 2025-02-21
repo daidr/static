@@ -1,4 +1,5 @@
 import { defineConfig, tierPresets } from 'sponsorkit'
+import fs from 'fs/promises'
 
 export default defineConfig({
   tiers: [
