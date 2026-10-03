@@ -1,13 +1,5 @@
 [
   {
-    "name": "enkdevur",
-    "login": "gilangabdian",
-    "avatar": "https://avatars.githubusercontent.com/u/189948849?u=9768bc6e444ac15d05e5e06479032c8511fa3fbd&v=4",
-    "amount": 1,
-    "link": "https://github.com/gilangabdian",
-    "org": false
-  },
-  {
     "name": null,
     "login": "Voltansky",
     "avatar": "https://avatars.githubusercontent.com/u/49253347?u=6cfbb395e5986b6920324d724717fd664b3c7a90&v=4",
@@ -29,6 +21,14 @@
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png",
     "amount": -1,
     "link": "https://afdian.com/u/3feee40868cf11ecb48f52540025c377",
+    "org": false
+  },
+  {
+    "name": "enkdevur",
+    "login": "gilangabdian",
+    "avatar": "https://avatars.githubusercontent.com/u/189948849?u=9768bc6e444ac15d05e5e06479032c8511fa3fbd&v=4",
+    "amount": -1,
+    "link": "https://github.com/gilangabdian",
     "org": false
   },
   {
