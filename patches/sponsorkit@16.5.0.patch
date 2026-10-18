@@ -1,0 +1,13 @@
+diff --git a/dist/shared/sponsorkit.CLJpd96P.mjs b/dist/shared/sponsorkit.CLJpd96P.mjs
+index 6624e20c7a3ea96af83ba36e9bd62e40e5a27c40..5f4a35b2a0fd639b7fee8f6a3f90690d8cb771d0 100644
+--- a/dist/shared/sponsorkit.CLJpd96P.mjs
++++ b/dist/shared/sponsorkit.CLJpd96P.mjs
+@@ -1295,7 +1295,7 @@ async function fetchPatreonSponsors(token) {
+   if (!token)
+     throw new Error("Patreon token is required");
+   const userData = await $fetch(
+-    "https://www.patreon.com/api/oauth2/api/current_user/campaigns?include=null",
++    "https://www.patreon.com/api/oauth2/v2/campaigns",
+     {
+       method: "GET",
+       headers: {
